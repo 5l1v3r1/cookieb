@@ -17,7 +17,7 @@ public class cookiEb {
 
 	public static void main(String args[]) {
 		try {
-			System.out.println("Coded by Ahmeth4n - github.com/ahmeth4n");
+			System.out.println("Coded by AhmethanGultekin - github.com/ahmeth4n");
 	        Scanner input = new Scanner(System.in); 
 	        System.out.print("URL : ");
 	        String webAddr = input.nextLine(); 
